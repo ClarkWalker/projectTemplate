@@ -9,13 +9,14 @@ body{
 #left_banner_area{
   background-color: #000088;
   display: flex;
-
+  width: 150px;
 }
 /*close*//*open*/
 #right_banner_area{
   background-color: #880000;
   display: flex;
   order: 100;
+  width: 150px;
 }
 /*close*//*open*/
 #middle_main_content_wrapper{
@@ -41,6 +42,7 @@ main{
   background-color: #112211;
   display: flex;
   height: auto;
+  height: 100em;
 }
 /*close*//*open*/
 input{
